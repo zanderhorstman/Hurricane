@@ -32,19 +32,19 @@
 	
 	conditional statements
 //		if (windspeed < 74) {
-//			System.out.println("Not a hurricane")
+//			System.out.nextln("Not a hurricane")
 //	}
 
 
 	
 //	}	else if (windspeed >= 74 && windspeed > 95)	{				//second value (example: ...&& value > int) must not include '='
-//			System.out.println("Category 1 hurricane")
+//			System.out.nextln("Category 1 hurricane")
 //		}
-//      *working template for cat 1-4 conditionals
-        check for less than 74, not a hurricane
+//		*working template for cat 1-4 conditionals
+check for less than 74, not a hurricane
 		check for between 74 and 95, cat 1 hurricane
 		check for between 95 and 110, cat 2 hurricane
-		check for between 110 and 130, cat 3 hurricane
+		check for beteen 110 and 130, cat 3 hurricane
 		check for between 130 and 156, cat 4 hurricane
 		else above 156, cat 5 hurricane
 	
